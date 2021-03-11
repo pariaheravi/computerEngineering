@@ -1,0 +1,97 @@
+.background{
+
+    filter: blur(6px);
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.navbar{
+
+    border-radius: 5px;
+    border-color: blueviolet;
+
+}
+
+.navbar-brand{
+
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+.nav-link{
+   
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+.search{
+
+    background-color :rgb(238, 235, 88) !important;
+}
+
+.icon{
+
+    position: relative;
+    padding-top: 5%;
+    
+}
+
+.ico{
+    
+    color: rgb(82, 13, 146);
+}
+
+.card{
+
+    position: relative;
+    background-color: none !important;
+    margin-top: 7px;
+}
+
+.container{
+
+    margin-top: 5%;
+}
+
+.hr{
+
+   color: cornsilk;
+   margin-top: 50px;
+}
+
+.card-title{
+
+    background: linear-gradient(0.25turn, #9ee49e, #f1e151, #ec81de); 
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.carousel{
+    position: relative;
+}
+
+.item{
+    border-radius: 5px;
+}
+
+.form{
+
+    position: relative;
+}
+
+.form-label{
+    color: chocolate;
+}
+
+.form-check-label{
+    color: chocolate;
+}
+
+.form-control{
+    font-family: 'Akaya Telivigala', cursive;
+}
+
